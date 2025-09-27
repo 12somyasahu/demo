@@ -1,4 +1,4 @@
 # demo
 just trying github 
 <br>
-author - somya kumar sahu
+author - somya sahu
